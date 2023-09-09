@@ -1,6 +1,6 @@
 {
   "name": "test-vue2-todo",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "main": "dist/todo-list.umd.js",
   "module": "dist/todo-list.esm.js",
   "unpkg": "dist/todo-list.min.js",
